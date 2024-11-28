@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emulation:EmulationData xmlns:emulation="http:///emulation.ecore" isBW="true" location="/tibco.bw.sample.binding.rest.BookStore/Tests/tibco.bw.sample.binding.rest.BookStore1.bwt" isSelected="true">
+  <ProcessNode Id="tibco.bw.sample.binding.rest.bookstore.Books" Name="tibco.bw.sample.binding.rest.bookstore.Books" ModelType="BW" moduleName="tibco.bw.sample.binding.rest.BookStore" componentProcessName="ComponentBooks"/>
+  <ProcessNode Id="tibco.bw.sample.binding.rest.bookstore.Events" Name="tibco.bw.sample.binding.rest.bookstore.Events" ModelType="BW" moduleName="tibco.bw.sample.binding.rest.BookStore" componentProcessName="ComponentEvents"/>
+  <ProcessNode Id="tibco.bw.sample.binding.rest.bookstore.Invoke_Client" Name="tibco.bw.sample.binding.rest.bookstore.Invoke_Client" ModelType="BW" moduleName="tibco.bw.sample.binding.rest.BookStore" componentProcessName="ComponentInvoke_Client"/>
+  <ProcessNode Id="tibco.bw.sample.binding.rest.bookstore.MyBooks" Name="tibco.bw.sample.binding.rest.bookstore.MyBooks" ModelType="BW" moduleName="tibco.bw.sample.binding.rest.BookStore" componentProcessName="ComponentMyBooks"/>
+  <ProcessNode Id="tibco.bw.sample.binding.rest.bookstore.RestInvoke" Name="tibco.bw.sample.binding.rest.bookstore.RestInvoke" ModelType="BW" moduleName="tibco.bw.sample.binding.rest.BookStore" componentProcessName="ComponentRestInvoke"/>
+  <ProcessNode Id="tibco.bw.sample.binding.rest.bookstore.db.BooksDB" Name="tibco.bw.sample.binding.rest.bookstore.db.BooksDB" ModelType="BW" moduleName="tibco.bw.sample.binding.rest.BookStore"/>
+  <ProcessNode Id="tibco.bw.sample.binding.rest.bookstore.db.EventsDB" Name="tibco.bw.sample.binding.rest.bookstore.db.EventsDB" ModelType="BW" moduleName="tibco.bw.sample.binding.rest.BookStore"/>
+</emulation:EmulationData>
